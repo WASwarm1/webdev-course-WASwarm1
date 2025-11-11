@@ -155,6 +155,36 @@ Al finalizar este curso serás capaz de:
 
 ---
 
+## Recursos Adicionales
+
+### 📂 Código Fuente Completo
+Todos los ejemplos y proyectos están disponibles en nuestro repositorio de GitHub:  
+[https://github.com/WASwarm1/webdev-course-WASwarm1](https://github.com/WASwarm1/webdev-course-WASwarm1)
+
+### 💻 Todas las Actividades Prácticas
+
+| Lección | Tema                         | Enlace al Editor |
+|---------|------------------------------|------------------|
+| 1       | Explorar la web              | [-](-)           |
+| 2       | Primera página HTML          | [-](-)           |
+| 3       | Listas, imágenes y enlaces   | [-](-)           |
+| 4       | Estilos con CSS              | [-](-)           |
+| 5       | Layout y espaciado           | [-](-)           |
+| 6       | Página de perfil personal    | [-](-)           |
+
+### 📚 Material de Apoyo
+
+- **Cheat Sheet HTML**: [Enlace](https://github.com/WASwarm1/webdev-course-WASwarm1/blob/main/cheatsheets/html-cheatsheet.md)
+- **Cheat Sheet CSS**: [Enlace](https://github.com/WASwarm1/webdev-course-WASwarm1/blob/main/cheatsheets/css-cheatsheet.md)
+
+### 🌐 Recursos para Continuar Aprendiendo
+
+- [MDN Web Docs](https://developer.mozilla.org/es/) - Documentación oficial de HTML y CSS
+- [freeCodeCamp](https://www.freecodecamp.org/) - Cursos gratuitos interactivos
+- [CSS Tricks](https://css-tricks.com/) - Trucos y tutoriales de CSS
+
+---
+
 ## 👥 Elaboración
 
 **Universidad Peruana de Ciencias Aplicadas**  
