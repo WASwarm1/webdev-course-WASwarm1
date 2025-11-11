@@ -1,4 +1,4 @@
-# 🎨 Guía Rápida de CSS
+#  Guía Rápida de CSS
 
 ## ¿Cómo agregar CSS?
 
@@ -320,7 +320,7 @@ transition: all 0.3s ease;
 
 ## Errores Comunes
 
-❌ **Olvidar el punto y coma**
+ **Olvidar el punto y coma**
 ```css
 /* Incorrecto */
 color: blue
@@ -331,7 +331,7 @@ color: blue;
 font-size: 16px;
 ```
 
-❌ **Olvidar las llaves**
+ **Olvidar las llaves**
 ```css
 /* Incorrecto */
 p
@@ -343,7 +343,7 @@ p {
 }
 ```
 
-❌ **Espacios en nombres de clases**
+ **Espacios en nombres de clases**
 ```css
 /* Incorrecto */
 .mi clase {
@@ -376,4 +376,4 @@ p {
 
 ---
 
-**¡Practica y experimenta con diferentes estilos!** 🎨✨
+**¡Practica y experimenta con diferentes estilos!** 

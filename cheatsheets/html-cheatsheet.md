@@ -1,4 +1,4 @@
-# 📄 Guía Rápida de HTML
+#  Guía Rápida de HTML
 
 ## Estructura Básica
 
@@ -174,22 +174,22 @@
 
 ## Consejos Importantes
 
-✅ **Siempre cierra las etiquetas**: `<p>texto</p>`  
-✅ **Usa comillas en los atributos**: `<img src="foto.jpg">`  
-✅ **Indenta tu código** para que sea más fácil de leer  
-✅ **Usa nombres descriptivos** en tus archivos: `mi-pagina.html`  
-✅ **Agrega texto alt a las imágenes** para accesibilidad
+ **Siempre cierra las etiquetas**: `<p>texto</p>`  
+ **Usa comillas en los atributos**: `<img src="foto.jpg">`  
+ **Indenta tu código** para que sea más fácil de leer  
+ **Usa nombres descriptivos** en tus archivos: `mi-pagina.html`  
+ **Agrega texto alt a las imágenes** para accesibilidad
 
-❌ **No olvides** cerrar las etiquetas  
-❌ **No uses** espacios en nombres de archivos  
-❌ **No mezcles** mayúsculas y minúsculas sin razón
+ **No olvides** cerrar las etiquetas  
+ **No uses** espacios en nombres de archivos  
+ **No mezcles** mayúsculas y minúsculas sin razón
 
 ---
 
 ## Recursos Adicionales
 
-📚 **MDN Web Docs**: https://developer.mozilla.org/es/docs/Web/HTML  
-📚 **W3Schools**: https://www.w3schools.com/html/
+ **MDN Web Docs**: https://developer.mozilla.org/es/docs/Web/HTML  
+ **W3Schools**: https://www.w3schools.com/html/
 
 ---
 
