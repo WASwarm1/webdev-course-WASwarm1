@@ -165,15 +165,27 @@ NRC: 7426
 
 **Nombre del equipo**: WASwarm1
 
-**Líder del equipo**: Werner Khalil, Lang Nassi
+Este es un proyecto educativo desarrollado por estudiantes de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC).
 
-**Integrantes del equipo**:
+**Equipo de desarrollo:**
 - Armestar Heredia, Matias Gabriel
 - Taipe Sangama, Jorge Francisco
 - Saúl, Ortega Muñoz
 - Lang Nassi, Werner Khalil
 
 **Fecha de entrega**: 
+
+---
+
+## 📞 Soporte y Contacto
+
+Si encuentras algún error o tienes sugerencias:
+- 🐛 Abre un [Issue](https://github.com/WASwarm1/webdev-course-WASwarm1/issues/new)
+
+---
+
+## 📄 Licencia
+Este material educativo es de uso libre para fines educativos. Si lo utilizas, por favor da crédito apropiado.
 
 ---
 
