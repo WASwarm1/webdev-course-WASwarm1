@@ -154,3 +154,29 @@ Al finalizar este curso serás capaz de:
 - Aprende JavaScript para hacer páginas interactivas
 
 ---
+
+## 👥 Elaboración
+
+**Universidad Peruana de Ciencias Aplicadas**  
+Carrera de Ingeniería de Software  
+Período: 202520  
+Curso: 1ASI0730 Aplicaciones Web  
+NRC: 7426
+
+**Nombre del equipo**: WASwarm1
+
+**Líder del equipo**: Werner Khalil, Lang Nassi
+
+**Integrantes del equipo**:
+- Armestar Heredia, Matias Gabriel
+- Taipe Sangama, Jorge Francisco
+- Saúl, Ortega Muñoz
+- Lang Nassi, Werner Khalil
+
+**Fecha de entrega**: 
+
+---
+
+**¡Gracias por completar el curso de Fundamentos de Desarrollo Web!**
+
+*Recuerda: Cada gran desarrollador web comenzó exactamente donde estás tú ahora. ¡Sigue practicando y creando!* 
