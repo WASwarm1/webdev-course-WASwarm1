@@ -168,8 +168,8 @@ Todos los ejemplos y proyectos están disponibles en nuestro repositorio de GitH
 | 1       | Explorar la web              | [-](-)           |
 | 2       | Primera página HTML          | [-](-)           |
 | 3       | Listas, imágenes y enlaces   | [-](-)           |
-| 4       | Estilos con CSS              | [-](https://codepen.io/pen/?template=starter1)|
-| 5       | Layout y espaciado           | [-](https://codepen.io/pen/?template=starter1)|
+| 4       | Estilos con CSS              | [CodePen](https://codepen.io/pen/?template=starter1)|
+| 5       | Layout y espaciado           | [CodePen](https://codepen.io/pen/?template=starter1)|
 | 6       | Página de perfil personal    | [-](-)           |
 
 ### 📚 Material de Apoyo
