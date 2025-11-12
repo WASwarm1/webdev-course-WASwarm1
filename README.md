@@ -98,7 +98,7 @@ Al finalizar este curso serás capaz de:
 
 **Descripción**: Aprende a controlar el espacio y la posición de los elementos en tu página web.
 
-**🎥 Enlace al video**: [Ver la lección](-)
+**🎥 Enlace al video**: [Ver la lección](https://youtu.be/ioH6cukKH2o)
 
 **Conceptos clave**:
 - `margin`: espacio exterior (separa elementos)
