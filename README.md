@@ -74,11 +74,11 @@ Al finalizar este curso serás capaz de:
 
 ---
 
-### Lección 4: Introducción a CSS - Dale Color a tu Página (12 minutos)
+### Lección 4: Introducción a CSS - Dale Color a tu Página (10 minutos)
 
 **Descripción**: Descubre cómo CSS transforma páginas simples en sitios web atractivos con colores, fuentes y estilos.
 
-**🎥 Enlace al video**: [Ver la lección](-)
+**🎥 Enlace al video**: [Ver la lección](https://youtu.be/2u51kQ07iQo)
 
 **Conceptos clave**:
 - Conectar CSS: `<style>` dentro de `<head>`
@@ -168,8 +168,8 @@ Todos los ejemplos y proyectos están disponibles en nuestro repositorio de GitH
 | 1       | Explorar la web              | [-](-)           |
 | 2       | Primera página HTML          | [-](-)           |
 | 3       | Listas, imágenes y enlaces   | [-](-)           |
-| 4       | Estilos con CSS              | [-](-)           |
-| 5       | Layout y espaciado           | [-](-)           |
+| 4       | Estilos con CSS              | [-](https://codepen.io/pen/?template=starter1)           |
+| 5       | Layout y espaciado           | [-](https://codepen.io/pen/?template=starter1)           |
 | 6       | Página de perfil personal    | [-](-)           |
 
 ### 📚 Material de Apoyo
