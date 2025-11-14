@@ -1,0 +1,33 @@
+#nombre {
+  display: flex;
+  color: white;
+  background-color: black;
+  justify-content: center;
+}
+
+#fotoDePerfil {
+  border-width: 3px;
+  border-style: solid;
+  border-color: red;
+}
+
+#perfil {
+  display: flex;
+  gap: 50px;
+}
+
+#InformacionDePerfil {
+  display: flex;
+  justify-content: space-between;
+}
+
+#enlaces {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  background-color: gray;
+}
+
+#enlaces a{
+  color: white;
+}
