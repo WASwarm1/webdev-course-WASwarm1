@@ -167,8 +167,8 @@ Todos los ejemplos y proyectos están disponibles en nuestro repositorio de GitH
 |---------|------------------------------|------------------|
 | 2       | Primera página HTML          | [CodePen](https://codepen.io/Matias-Armestar/pen/WbwQwpv) |
 | 3       | Listas, imágenes y enlaces   | [CodePen](https://codepen.io/Matias-Armestar/pen/JoXYXWp) |
-| 4       | Estilos con CSS              | [CodePen](https://codepen.io/pen/?template=starter1)|
-| 5       | Layout y espaciado           | [CodePen](https://codepen.io/pen/?template=starter1)|
+| 4       | Estilos con CSS              | [CodePen](https://codepen.io/Jorge-Taipe/pen/GgZZqLo)     |
+| 5       | Layout y espaciado           | [CodePen](https://codepen.io/Jorge-Taipe/pen/OPNNRLb)     |
 | 6       | Página de perfil personal    | [CodePen](https://codepen.io/Matias-Armestar/pen/VYaexOW) |
 
 ### 📚 Material de Apoyo
