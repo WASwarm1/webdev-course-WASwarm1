@@ -201,7 +201,7 @@ Este es un proyecto educativo desarrollado por estudiantes de Ingeniería de Sof
 - Taipe Sangama, Jorge Francisco
 - Lang Nassi, Werner Khalil
 
-**Fecha de entrega**: 
+**Fecha de entrega**: 14-11-2025
 
 ---
 
