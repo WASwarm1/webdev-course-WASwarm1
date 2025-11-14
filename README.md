@@ -30,7 +30,7 @@ Al finalizar este curso serás capaz de:
 
 **Descripción**: Descubre cómo funcionan los sitios web y conoce los lenguajes que los construyen: HTML y CSS.
 
-**🎥 Enlace al video**: [Ver la lección](-)
+**🎥 Enlace al video**: [Ver la lección](https://youtu.be/hkkkNt4pQ6c)
 
 **Conceptos clave**:
 - Los sitios web son documentos que tu navegador lee y muestra
@@ -40,11 +40,11 @@ Al finalizar este curso serás capaz de:
 
 ---
 
-### Lección 2: Mi Primera Página HTML (8 minutos)
+### Lección 2: Mi Primera Página HTML (11 minutos)
 
 **Descripción**: Aprende la estructura básica de HTML y crea tu primera página web con títulos y párrafos.
 
-**🎥 Enlace al video**: [Ver la lección](-)
+**🎥 Enlace al video**: [Ver la lección](https://youtu.be/0FvqElbWbwo)
 
 **Conceptos clave**:
 - Estructura básica: `<html>`, `<head>`, `<body>`
@@ -57,11 +57,11 @@ Al finalizar este curso serás capaz de:
 
 ---
 
-### Lección 3: Agregando Más Elementos HTML (10 minutos)
+### Lección 3: Agregando Más Elementos HTML (11 minutos)
 
 **Descripción**: Enriquece tus páginas con listas, imágenes y enlaces para hacerlas más interesantes e interactivas.
 
-**🎥 Enlace al video**: [Ver la lección](-)
+**🎥 Enlace al video**: [Ver la lección](https://youtu.be/sMZwWE9vfCE)
 
 **Conceptos clave**:
 - Listas sin orden: `<ul>` y `<li>`
@@ -112,11 +112,11 @@ Al finalizar este curso serás capaz de:
 
 ---
 
-### Lección 6: Proyecto Final - Mi Página de Perfil Personal (12 minutos)
+### Lección 6: Proyecto Final - Mi Página de Perfil Personal (16 minutos)
 
 **Descripción**: Combina todo lo aprendido para crear una página web completa sobre ti.
 
-**🎥 Enlace al video**: [Ver la lección](-)
+**🎥 Enlace al video**: [Ver la lección](https://youtu.be/1quQvDJdhvw)
 
 **Elementos del proyecto**:
 - Título con tu nombre
@@ -131,11 +131,11 @@ Al finalizar este curso serás capaz de:
 
 ---
 
-### Lección 7: Consejos, Errores Comunes y Siguientes Pasos (3 minutos)
+### Lección 7: Consejos, Errores Comunes y Siguientes Pasos (5 minutos)
 
 **Descripción**: Aprende las mejores prácticas, errores típicos de principiantes y dónde continuar tu aprendizaje.
 
-**🎥 Enlace al video**: [Ver la lección](-)
+**🎥 Enlace al video**: [Ver la lección](https://youtu.be/tZneIbBJK7M)
 
 **Consejos clave**:
 - ✅ Siempre cierra tus etiquetas
@@ -165,12 +165,11 @@ Todos los ejemplos y proyectos están disponibles en nuestro repositorio de GitH
 
 | Lección | Tema                         | Enlace al Editor |
 |---------|------------------------------|------------------|
-| 1       | Explorar la web              | [-](-)           |
-| 2       | Primera página HTML          | [-](-)           |
-| 3       | Listas, imágenes y enlaces   | [-](-)           |
+| 2       | Primera página HTML          | [CodePen](https://codepen.io/Matias-Armestar/pen/WbwQwpv) |
+| 3       | Listas, imágenes y enlaces   | [CodePen](https://codepen.io/Matias-Armestar/pen/JoXYXWp) |
 | 4       | Estilos con CSS              | [CodePen](https://codepen.io/pen/?template=starter1)|
 | 5       | Layout y espaciado           | [CodePen](https://codepen.io/pen/?template=starter1)|
-| 6       | Página de perfil personal    | [-](-)           |
+| 6       | Página de perfil personal    | [CodePen](https://codepen.io/Matias-Armestar/pen/VYaexOW) |
 
 ### 📚 Material de Apoyo
 
@@ -200,7 +199,6 @@ Este es un proyecto educativo desarrollado por estudiantes de Ingeniería de Sof
 **Equipo de desarrollo:**
 - Armestar Heredia, Matias Gabriel
 - Taipe Sangama, Jorge Francisco
-- Saúl, Ortega Muñoz
 - Lang Nassi, Werner Khalil
 
 **Fecha de entrega**: 
